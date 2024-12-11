@@ -15,4 +15,11 @@ BWE wants to create an annual sales report of specified period so that, owner ca
 - Analyze sales by customer and compare with previous year
 
 - Dashboard interaction - <a href = "https://github.com/Vijayalaxmi410/Sales/blob/main/Screenshot%20(12).png">View dashboard</a>
+# Process
+-	Loaded excel data set into power bi
+-	Verify data for any missing values or anomalies, and sort out the same
+-	Made sure that data is consistent and clean with respect to data type, data format and values used
+-	Data master tables  is created for easier visualization
+-	Interactive report is created
+
 
