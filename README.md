@@ -21,5 +21,8 @@ BWE wants to create an annual sales report of specified period so that, owner ca
 -	Made sure that data is consistent and clean with respect to data type, data format and values used
 -	Data master tables  is created for easier visualization
 -	Interactive report is created
+#Dashboard
+![Screenshot (12)](https://github.com/user-attachments/assets/b71be189-19d4-45dd-97cf-d91b00dca626)
+
 
 
