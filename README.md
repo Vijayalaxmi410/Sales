@@ -24,5 +24,11 @@ BWE wants to create an annual sales report of specified period so that, owner ca
 #Dashboard
 ![Screenshot (12)](https://github.com/user-attachments/assets/b71be189-19d4-45dd-97cf-d91b00dca626)
 
+# Project Insight
+-Sales of current year is increased by 10% compared to Last year
+-Profit is increased by 10% by city
+-total profit margin is 37.08%
+-Total products sold is 23K.
+
 
 
