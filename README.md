@@ -13,3 +13,6 @@ BWE wants to create an annual sales report of specified period so that, owner ca
 - Compare sales by months with previous year
 - Which are 5 top cities
 - Analyze sales by customer and compare with previous year
+
+- Dashboard interaction - <a href = "https://github.com/Vijayalaxmi410/Sales/blob/main/Screenshot%20(12).png">View dashboard</a>
+
